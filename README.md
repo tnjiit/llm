@@ -1,2 +1,3 @@
-# llm
-Testing agent sdk from Claude
+# LLM
+Repo to create an agentic worflow that uses Claude Agent SDK
+
